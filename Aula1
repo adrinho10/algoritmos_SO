@@ -1,0 +1,22 @@
+import java.util.Scanner;
+package atividadesso;
+
+public class AtividadesSO {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        int n_processos;
+
+        n_processos = sc.nextInt
+
+        int[] id = new int[];
+        int tempo_execucao;
+        int tempo_espera;
+        int n_processos;
+
+
+
+    }
+
+}
